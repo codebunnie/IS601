@@ -11,9 +11,10 @@ html {
   margin: 2px;
 
    }
+   
 h1 {font-size: 80px;}
-h2 {
-	font-size: 30px}  
+h2 {font-size: 30px;}  
+a  {color: #ff0066;}
 
 body {
   font-family: 'Lato', sans-serif;
